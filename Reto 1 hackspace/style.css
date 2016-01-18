@@ -1,0 +1,51 @@
+header#principal{
+    background-color: yellow;
+    text-align: center;
+}
+
+
+nav {
+    border: 2px solid;
+    background-color: orange;
+    text-align: left;
+}
+nav ul{
+    margin: 0 auto;
+    padding: 1;    
+}
+nav ul li {
+    margin-top: 5%;
+    cursor: pointer;
+    font-family: sans-serif;
+    width: 80%;
+}
+
+p {
+    text-align: justify;
+}
+p#comentarios{
+    font-style: italic;
+}
+
+footer#Autor{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+#navegador{
+    width: 25%;
+    float: left;
+}
+#main {
+    margin:auto;
+    margin-left: 3%;;
+    width: 72%;
+    float: left;
+}
+.ayuda{
+    clear: both;
+}
+.ic-fb {
+    content: "\f09a";
+}
